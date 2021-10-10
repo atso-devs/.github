@@ -1,7 +1,9 @@
 # atso.devs
 
 [Правила сообщества.](https://github.com/atso-devs/atso-devs/blob/main/rules.md)  
-Список студентов можно найти [тут](https://github.com/atso-devs/atso-devs/blob/main/students.md).
+[Список студентов.](https://github.com/atso-devs/atso-devs/blob/main/students.md)
+[Архив файлов с платонуса.](https://disk.yandex.kz/d/AJ9c2alFxxmYdA) Архив буду перезаливать и обновлять ссылку, как только новых документов будет +\- штук 10. 
+
 
 ## Навигация по тегам. 
 `python` - тег для предмета "Основы программирования на языке Python" - [перейти](https://github.com/orgs/atso-devs/repositories?q=topic%3Apython&type=&language=&sort=). 
