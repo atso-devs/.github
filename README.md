@@ -1,8 +1,8 @@
 # atso.devs
 
-- [Правила сообщества.](https://github.com/atso-devs/atso-devs/blob/main/rules.md)  
-- [Список студентов.](https://github.com/atso-devs/atso-devs/blob/main/students.md)
-- [Расписание.](https://github.com/atso-devs/atso-devs/blob/main/schedule.md)
+- [Правила сообщества.](https://github.com/atso-devs/.github/blob/main/rules.md)  
+- [Список студентов.](https://github.com/atso-devs/.github/blob/main/students.md)
+- [Расписание.](https://github.com/atso-devs/.github/blob/main/schedule.md)
 - [Архив файлов с платонуса.](https://disk.yandex.kz/d/AJ9c2alFxxmYdA) Архив буду перезаливать и обновлять ссылку, как только новых документов будет +\- штук 10. 
 
 
