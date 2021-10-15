@@ -1,9 +1,6 @@
 # atso.devs
 
-- [Правила сообщества.](https://github.com/atso-devs/.github/blob/main/rules.md)  
-- [Список студентов.](https://github.com/atso-devs/.github/blob/main/students.md)
-- [Расписание.](https://github.com/atso-devs/.github/blob/main/schedule.md)
-- [Архив файлов с платонуса.](https://disk.yandex.kz/d/AJ9c2alFxxmYdA) Архив буду перезаливать и обновлять ссылку, как только новых документов будет +\- штук 10. 
+Файл со всеми материалами и навигацией [тут](https://github.com/atso-devs/.github/blob/main/profile/README.md).
 
 
 ## Навигация по тегам. 
