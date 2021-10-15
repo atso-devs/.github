@@ -8,3 +8,4 @@
 - [Список студентов.](https://github.com/atso-devs/.github/blob/main/students.md)
 - [Расписание.](https://github.com/atso-devs/.github/blob/main/schedule.md)
 - [Учебный материал с платонуса.](https://disk.yandex.kz/d/ki02J4qt8VNUcQ) 
+- [Навигация по тегам.](https://github.com/atso-devs/.github/blob/main/tags.md)
