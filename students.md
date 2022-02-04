@@ -11,7 +11,7 @@
 1. [Кочевой Алексей](https://github.com/LexyJexon)
 1. Куришбаев Амир
 1. [Мылтыкбаев Алибек](https://github.com/Alibek-dev)
-1. [Потапов Алексей](https://github.com/4lexpot4pov)
+1. [Потапов Алексей](https://github.com/4lexbit)
 1. [Рассудихин Александр](https://github.com/punkmachine)
 1. Русланов Руслан
 1. Сбродов Максим
